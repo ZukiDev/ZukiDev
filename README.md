@@ -1,6 +1,5 @@
 ### Hi, I'm Marz 👋
-  
-### Github Statistic
+
 <p align="left">
 <a href="https://github.com/zukidev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zukidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
